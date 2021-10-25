@@ -30,7 +30,7 @@
   Para implementar estos movimientos, he utilizado la propiedad Transform del objeto 3D y un campo público para que el usuario pueda introducir la velocidad a la que quiere     mover el cubo. Además he hecho uso de la clase Input, utilizando así Input.GetAxis que es un listener que detecta cuando pulsamos el teclado para realizar un movimiento,     en este caso las teclas aswd o las flecas. A continuación, he creado un nuevo Vector3 que contiene las coordenadas correspondientes al movimiento que se desea realizar.       Para ello, debemos tener en cuenta que el eje X representa el movimiento de izquierda y derecha, el eje Y representa el movimiento hacia arriba o hacia abajo y el eje Z       representa el movimiento hacia delante o hacia atrás. También, he hecho uso de Time.deltaTime para escalar los movimientos según el tiempo transcurrido(Tiempo real) y no     por frame(Tiempo Físico).
 
   ### Script
-    ![Script](https://github.com/EduardoEB3/InterfacesInteligentes_P2/blob/main/images/Scrip_Ejercicio2.jpg)
+    ![Script](https://github.com/EduardoEB3/InterfacesInteligentes_P2/blob/main/images/Script_Ejercicio2.jpg)
    
   ### GIF
     ![GIF](https://github.com/EduardoEB3/InterfacesInteligentes_P2/blob/main/GIFs/GIF_Ejercicio2.gif)

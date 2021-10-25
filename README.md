@@ -50,7 +50,7 @@
    ![GIF](https://github.com/EduardoEB3/InterfacesInteligentes_P2/blob/main/GIFs/GIF_Ejercicio3_Punto4.gif)
    
   ### Aumentar tamaño cubo
-   - No fuí capaz de conseguirlo.
+   - Lo intenté, pero no fuí capaz de conseguirlo.
 
 ## Estructura de directorios
 El directorio está organizado de la siguiente manera:

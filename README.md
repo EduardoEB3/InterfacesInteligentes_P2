@@ -50,7 +50,7 @@
    ![GIF](https://github.com/EduardoEB3/InterfacesInteligentes_P2/blob/main/GIFs/GIF_Ejercicio3_Punto4.gif)
    
   ### Aumentar tamaño cubo
-   - Lo intenté, pero no fuí capaz de conseguirlo.
+   ![GIF](https://github.com/EduardoEB3/InterfacesInteligentes_P2/blob/main/GIFs/GIF_Ejercicio3_Punto5.gif)
 
 ## Estructura de directorios
 El directorio está organizado de la siguiente manera:
@@ -62,6 +62,7 @@ El directorio está organizado de la siguiente manera:
           ├── GIF_Ejercicio3_Punto2.gif
           ├── GIF_Ejercicio3_Punto3.gif
           ├── GIF_Ejercicio3_Punto4.gif
+          ├── GIF_Ejercicio3_Punto5.gif
       ├── image
           ├── Script_Ejercicio2.jpg
       ├── scripts
@@ -69,8 +70,9 @@ El directorio está organizado de la siguiente manera:
               ├── MovimientoCubo.cs
           ├── Ejercicio3
               ├── AlejarCilindros.cs
+              ├── CambioTamano.cs
               ├── Cilindros.cs
-              ├── Controlador.cs
+              ├── Esfera.cs
               ├── EspacioCilindros.cs
               ├── Jugador.cs
           
